@@ -2,6 +2,9 @@
 
 This repository contains the final code for the dashboard project for Grazioso Salvare. It includes both the dashboard code and the CRUD Python module used for MongoDB operations. The project allows Grazioso Salvare, a rescue-animal training company, to interact with their database of animal shelter data through an intuitive web dashboard. Below are my reflections on the work done for this project and how it fits into my learning as a computer science student.
 
+<img width="795" alt="image" src="https://github.com/user-attachments/assets/34f23e40-dedf-43dd-abe8-3629ff046989">
+
+
 ## Reflections
 
 To write maintainable, readable, and adaptable programs, I focus on using good coding practices such as writing modular code, using clear and descriptive variable names, and following consistent formatting. For this project, I created a reusable CRUD Python module to handle interactions with MongoDB. This module helped manage the database queries, and I was able to use it throughout the dashboard project without needing to rewrite code.
